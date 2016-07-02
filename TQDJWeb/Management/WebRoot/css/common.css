@@ -1,0 +1,23 @@
+.container-box {
+	padding: 0px;
+	border: 1px solid silver;
+}
+
+.paging-box {
+/* 	border: 1px solid silver; */
+}
+
+.top-button-box {
+	margin: 20px 0 10px 0;
+}
+
+.listtable {
+	table-layout: fixed;
+}
+
+.listtable tr td {
+	text-overflow: ellipsis;
+	-moz-text-overflow: ellipsis;
+	overflow: hidden;   
+    white-space: nowrap;   
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+	<!-- 数据服务数据库配置，可以有多个，同一类型用下划线区分，如: MySQL_XX -->
+	<type name="MySQL">
+
+		<!-- 数据库配置，唯一 -->
+		<database>
+			<property name="driver">com.mysql.jdbc.Driver</property>
+			<property name="host">127.0.0.1</property>
+			<property name="port">3306</property>
+			<property name="name">mysql</property>
+			<property name="username">root</property>
+			<property name="password">root</property>
+			<property name="encoding">utf-8</property>
+		</database>
+	</type>
+
+</configuration>

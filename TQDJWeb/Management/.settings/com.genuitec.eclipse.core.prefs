@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js/bootstrap.min.js,src/springmvc.xml,WebRoot/js/jquery-2.1.3.min.js,WebRoot/js/angular-file-upload.min.js,WebRoot/js/angular.min.js,WebRoot/js/jquery.uploadify.min.js
+validator.Unchecked=
